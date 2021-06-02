@@ -1,0 +1,4 @@
+/home/runner/work/HW3/HW3/CMakeFiles/rebuild_cache.dir
+/home/runner/work/HW3/HW3/CMakeFiles/edit_cache.dir
+/home/runner/work/HW3/HW3/CMakeFiles/test.dir
+/home/runner/work/HW3/HW3/CMakeFiles/print_ip.dir
