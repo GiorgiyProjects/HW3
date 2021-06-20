@@ -18,7 +18,7 @@ print_ip(T container)
         std::cout << c << ip_part;
         c = ".";
     }
-    std::cout  << std::endl;
+    std::cout << std::endl;
 }
 
 template <typename T>
